@@ -1,0 +1,14 @@
+"Games"
+{
+	"#default"
+	{
+		"Signatures"
+		{
+			"CNetChan::ProcessPacket()"
+			{
+				"library"		"engine"
+				"linux"			"\x55\x89\xE5\x57\x56\x53\x81\xEC\xBC\x00\x00\x00\x8B\x45\x10\x8B\x5D\x08"
+			}
+		}
+	}
+}
